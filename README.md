@@ -1,37 +1,4 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Virtual Lab Kimia untuk mempelajari konsentrasi dan molaritas larutan menggunakan simulasi PhET.">
-<title>Virtual Lab Kimia | Konsentrasi Larutan</title>
-<style>
-:root{--blue:#145da0;--navy:#183153;--pale:#edf6ff;--teal:#dff7f2;--line:#d7e2ef;--white:#fff;--muted:#5d6b7b}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f4f8fc;color:var(--navy);font:16px/1.6 Arial,Helvetica,sans-serif}
-header{background:linear-gradient(130deg,#124b82,#168aad);color:#fff;padding:36px 18px 28px}
-.hero,.wrap{max-width:1100px;margin:auto}.eyebrow{letter-spacing:.12em;font-size:.78rem;font-weight:bold;color:#d5edff}
-h1{font-size:clamp(2rem,5vw,3.2rem);line-height:1.12;margin:.35em 0}header p{max-width:700px}
-nav{position:sticky;top:0;z-index:10;background:#fff;border-bottom:1px solid var(--line);display:flex;gap:8px;overflow:auto;padding:10px max(12px,calc((100vw - 1100px)/2))}
-nav a{white-space:nowrap;text-decoration:none;color:var(--blue);font-weight:bold;padding:8px 11px;border-radius:8px}nav a:hover{background:var(--pale)}
-.wrap{padding:18px}.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 4px 14px #1831530a}
-h2{margin:.1em 0 .5em;font-size:1.55rem}h3{margin-bottom:.35em}p{margin:.55em 0}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
-.tile{background:var(--pale);border-radius:12px;padding:16px}.muted,small{color:var(--muted)}
-button,.button{display:inline-block;background:var(--blue);color:white;border:0;border-radius:9px;padding:11px 15px;font-weight:bold;cursor:pointer;text-decoration:none;font-size:1rem}
-button:hover,.button:hover{filter:brightness(.92)}button.secondary{background:#e5eef8;color:var(--navy)}button.danger{background:#9b2c2c}
-input,select,textarea{width:100%;max-width:100%;padding:11px;border:1px solid #aebfd1;border-radius:8px;font:inherit;background:white;color:var(--navy)}
-label{font-weight:bold;display:block;margin:10px 0 4px}iframe{width:100%;height:clamp(360px,65vw,650px);border:0;border-radius:12px;background:#f1f5f9}
-.actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}.formula{font-size:1.35rem;font-weight:bold;background:var(--teal);padding:14px;border-radius:10px;display:inline-block}
-table{border-collapse:collapse;width:100%;margin:12px 0;font-size:.95rem}th,td{border:1px solid var(--line);padding:9px;text-align:left}th{background:var(--pale)}.table-wrap{overflow-x:auto}
-.notice{border-left:4px solid #e0a126;padding:10px 14px;background:#fff8e7;border-radius:5px}
-.result{font-weight:bold;padding:12px;background:var(--pale);border-radius:8px;min-height:42px;margin-top:10px}
-.question{padding:14px;border:1px solid var(--line);border-radius:12px;margin:12px 0}.question label{font-weight:normal;display:flex;align-items:flex-start;gap:8px}.question input{width:auto;margin-top:6px}
-footer{background:#153b60;color:#fff;padding:24px;text-align:center;margin-top:28px}
-@media(max-width:700px){.grid{grid-template-columns:1fr}.card{padding:15px}.wrap{padding:12px}nav a{font-size:.9rem}}
-@media print{nav,.actions,button,iframe{display:none!important}body{background:white}.card{box-shadow:none;break-inside:avoid}}
-</style>
-</head>
-<body>
-<header>
+
   <div class="hero">
     <div class="eyebrow">PEMBELAJARAN KIMIA • LABORATORIUM VIRTUAL</div>
     <h1>Virtual Lab: Konsentrasi Larutan</h1>
