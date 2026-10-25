@@ -52,7 +52,7 @@ footer{background:#153b60;color:#fff;padding:24px;text-align:center;margin-top:2
     <li>Mencatat hasil simulasi dan menyusun kesimpulan berdasarkan bukti.</li>
   </ul>
   <div class="grid">
-    <div class="tile"><b>Waktu yang disarankan</b><br>40–60 menit</div>
+    <div class="tile"><b>Waktu Pembelajaran</b><br>2x45 menit</div>
     <div class="tile"><b>Peralatan</b><br>Browser dan koneksi internet</div>
   </div>
 </section>
@@ -75,28 +75,28 @@ footer{background:#153b60;color:#fff;padding:24px;text-align:center;margin-top:2
     <li>Warna larutan pada simulasi dapat membantu membandingkan konsentrasi, tetapi warna bukan pengukuran universal untuk semua zat.</li>
     <li>Jika larutan mencapai batas kelarutan, penambahan zat terlarut tidak selalu meningkatkan jumlah zat yang larut.</li>
   </ul>
-  <div class="notice">Penting: gunakan volume larutan dalam liter (L), bukan mililiter (mL). Konversi: 1000 mL = 1 L.</div>
+  <div class="notice">Penting: Gunakan volume larutan dalam liter (L), bukan mililiter (mL). Konversi: 1000 mL = 1 L.</div>
 </section>
 
 <section class="card" id="video">
   <h2>3. Video Pembelajaran</h2>
-  <p>Tonton video pengantar tentang molaritas atau konsentrasi larutan. Video di bawah menggunakan pencarian YouTube agar guru dapat memilih video yang paling sesuai dengan kurikulum.</p>
+  <p>Tonton video pengantar tentang molaritas atau konsentrasi larutan.</p>
   <div class="actions">
-    <a class="button" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=molaritas+konsentrasi+larutan+kimia+SMA">Cari video: Molaritas dan Konsentrasi</a>
+    <a class="button" target="_blank" rel="noopener" href="https://www.youtube.com/results?search_query=molaritas+konsentrasi+larutan+kimia+SMA">Molaritas dan Konsentrasi</a>
     <a class="button secondary" target="_blank" rel="noopener" href="https://phet.colorado.edu/in/simulations/concentration">Buka laman resmi PhET</a>
   </div>
-  <p class="muted">Untuk menampilkan video tertentu di halaman ini, guru dapat mengganti area ini dengan kode embed resmi video yang dipilih dan diizinkan untuk disematkan.</p>
+  <p class="muted">
 </section>
 
 <section class="card" id="lab">
   <h2>4. Laboratorium Virtual PhET</h2>
-  <p><b>Petunjuk:</b> pilih zat terlarut yang tersedia, ubah jumlah zat dan volume sesuai kontrol simulasi, lalu amati indikator konsentrasi. Catat hasil aktual yang ditampilkan PhET pada LKPD.</p>
+  <p><b>Petunjuk:</b> Pilih zat terlarut yang tersedia, ubah jumlah zat dan volume sesuai kontrol simulasi, lalu amati indikator konsentrasi. Catat hasil aktual yang ditampilkan PhET pada LKPD.</p>
   <iframe src="https://phet.colorado.edu/sims/html/concentration/latest/concentration_en.html" title="Simulasi PhET Concentration" loading="lazy" allowfullscreen></iframe>
   <div class="actions">
     <a class="button" href="https://phet.colorado.edu/sims/html/concentration/latest/concentration_en.html" target="_blank" rel="noopener">Buka PhET di tab baru</a>
     <a class="button secondary" href="https://phet.colorado.edu/sims/html/molarity/latest/molarity_en.html" target="_blank" rel="noopener">Buka simulasi Molarity</a>
   </div>
-  <p class="muted">Jika simulasi tidak muncul di dalam halaman, gunakan tombol untuk membukanya di tab baru. Koneksi internet diperlukan. Simulasi PhET merupakan layanan eksternal dan tidak mengirim data percobaan ke LKPD website ini secara otomatis.</p>
+  <p class="muted">Jika simulasi tidak muncul di dalam halaman, gunakan tombol untuk membukanya di tab baru. Koneksi internet diperlukan.</p>
 </section>
 
 <section class="card" id="kalkulator">
