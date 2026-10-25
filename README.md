@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html></html>
+<head></head>
   <div class="hero">
     <div class="eyebrow">PEMBELAJARAN KIMIA • LABORATORIUM VIRTUAL</div>
     <h1>Virtual Lab: Konsentrasi Larutan</h1>
