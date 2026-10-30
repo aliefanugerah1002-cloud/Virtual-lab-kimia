@@ -196,7 +196,6 @@ footer{background:#153b60;color:#fff;padding:24px;text-align:center;margin-top:2
   </ul>
   <p class="muted">Simulasi PhET disediakan oleh University of Colorado Boulder. Website ini adalah bahan pembelajaran pendamping, bukan produk resmi PhET.</p>
 </section>
-</main>
 <footer><b>Virtual Lab Kimia: Konsentrasi Larutan</b><br>Belajar sains melalui eksplorasi dan bukti.</footer>
 <script>
 function hitungMolaritas(){
@@ -248,5 +247,3 @@ function unduhLKPD(){
  a.href=url;a.download='LKPD_Konsentrasi_Larutan.csv';document.body.appendChild(a);a.click();a.remove();URL.revokeObjectURL(url);
 }
 </script>
-</body>
-</html>
