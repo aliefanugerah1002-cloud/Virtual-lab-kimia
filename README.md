@@ -86,7 +86,6 @@ footer{background:#153b60;color:#fff;padding:24px;text-align:center;margin-top:2
     <a class="button secondary" target="_blank" rel="noopener" href="https://phet.colorado.edu/in/simulations/concentration">Buka laman resmi PhET</a>
   </div>
   <p class="muted">
-</section>
 
 <section class="card" id="lab">
   <h2>4. Laboratorium Virtual PhET</h2>
